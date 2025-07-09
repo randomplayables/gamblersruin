@@ -1,0 +1,4 @@
+export const STARTING_CAPITAL = 10
+export const TARGET_CAPITAL = 20
+export const WIN_PROBABILITY = 0.5
+export const LOSE_PROBABILITY = 1 - WIN_PROBABILITY
